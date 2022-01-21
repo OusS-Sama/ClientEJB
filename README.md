@@ -1,1 +1,1 @@
-# ejb
+# CLientEJB
